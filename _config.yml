@@ -1,17 +1,13 @@
-title: Multiverse by HTML5 UP
-author: João Neto
-email: joao@neto.pt
+title: Life record of our pets Cuba & Fiyi.
+author: Fernando Saucedo
+email: saucedo.info@gmail.com
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Cameras: Fujifilm x70, nikon d610, motorola cell phones.
 
 social:
-  twitter: joaomlneto
-  facebook: joaomlneto
-  instagram: joaomlneto
-  github: joaomlneto
-  linkedin:
+  twitter: saucedoinfo
+  instagram: saucedo.info
+  github: saucedoinfo
 
 # Build settings
 markdown: kramdown
